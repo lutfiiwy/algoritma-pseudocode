@@ -15,4 +15,17 @@ Deskripsi
 {hitung jumlahnya}
 hasil←(a+b)**2
 write(‘Hasil Kuadrat= ’, hasil)
-  
+
+
+3. Buatlah algoritma dengan bentuk penulisan pseudocode untuk proses yang menerima tiga buah bilangan dan menampilkan hasil perkalian dari ketiga bilangan tersebut!
+3.ALGORITMA PERKALIAN_TIGA_BUAH_BILANGAN
+{Perkalian tiga buah bilangan}
+DEKLARASI
+Hasil,x,y,z:Integer
+DESKRIPSI
+Input(x,y,z);
+{kalikan ketiganya}
+Hasilz*y*z
+Print(‘Hasil =’,Hasil);
+END
+
